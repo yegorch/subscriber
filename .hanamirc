@@ -1,0 +1,3 @@
+project=subscriber
+test=rspec
+template=erb
