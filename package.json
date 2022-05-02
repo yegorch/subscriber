@@ -1,0 +1,10 @@
+{
+  "name": "subscriber",
+  "version": "0.0.1",
+  "devDependencies": {
+    "stats-webpack-plugin": "*",
+    "webpack": "*",
+    "webpack-cli": "^4.9.2",
+    "webpack-dev-server": "*"
+  }
+}
