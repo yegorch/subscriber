@@ -4,6 +4,8 @@ gem 'rake'
 gem 'hanami',       '~> 1.3'
 gem 'hanami-model', '~> 1.3'
 
+gem 'hanami-webpack', github: 'samuelsimoes/hanami-webpack'
+
 gem 'sqlite3'
 
 group :development do
