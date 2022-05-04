@@ -1,3 +1,6 @@
 RSpec.describe Subscription, type: :entity do
-  # place your tests here
+  it 'test for create' do
+    subs = Subscription.new(title: 'Refactoring')
+    expect(subs.title).to eq('Refactoring')
+  end
 end
